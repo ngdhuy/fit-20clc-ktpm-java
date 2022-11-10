@@ -11,4 +11,5 @@ $ git config --global user.email "ndhuy@fit.hcmus.edu.vn"
 ```shell
 $ git branch
 $ git checkout <commit-id>
+$ git checkout <commit-id> -b <new-branch-name>
 ```
