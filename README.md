@@ -13,3 +13,9 @@ $ git branch
 $ git checkout <commit-id>
 $ git checkout <commit-id> -b <new-branch-name>
 ```
+
+# Git merge command
+```shell
+$ git checkout <branch-name-main>
+$ git merge <branch-name-be-merged>
+```
