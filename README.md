@@ -6,3 +6,8 @@ Demo git and java for Java course at fit@hcmus
 $ git config --global user.name "Huy Nguyen"
 $ git config --global user.email "ndhuy@fit.hcmus.edu.vn"
 ```
+
+# Git branch command
+```shell
+$ git branch
+```
