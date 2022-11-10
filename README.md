@@ -10,4 +10,5 @@ $ git config --global user.email "ndhuy@fit.hcmus.edu.vn"
 # Git branch command
 ```shell
 $ git branch
+$ git checkout <commit-id>
 ```
